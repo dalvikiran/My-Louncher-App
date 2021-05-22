@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My App Launcher</string>
+
+    <string name="install_app_name">App Name</string>
+    <string name="package_name">Package</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="version_name">Version Name</string>
+    <string name="version_code">Version Code</string>
+</resources>
